@@ -1,0 +1,4 @@
+signal:
+  phone: "+380500346662" # Replace with your phone number
+  group_id: "https://signal.group/#CjQKIDuXPtgIr_vRf-s2SXdVsTQlAW7fNPjMoa9VsJ0CrItIEhAsQaAsMAZkpYTIlb2dHv3X"
+  message_on_no_alert: "+"

@@ -1,0 +1,2 @@
+* * * * * /usr/local/bin/python /app/check_alert_status.py > /proc/1/fd/1 2>/proc/1/fd/2
+* * * * * /usr/local/bin/python /app/send_signal_message.py > /proc/1/fd/1 2>/proc/1/fd/2
